@@ -24,4 +24,4 @@ Create a .env file in your project and populate it with your discord token
 
 
 
-This bot was inspired by yakiimoninja. Check their project out here: https://github.com/yakiimoninja/baiken
+This bot was inspired by yakiimoninja. Check out their project out here: https://github.com/yakiimoninja/baiken
