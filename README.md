@@ -31,12 +31,12 @@ Click on `New Application` \
 Name your app \
 Go to `Bot` \
 Click `Add Bot` \
-Copy and save your token into the .env file. \
+Create a `.env` file in your project and populate it with your discord token \
 Go to OAuth2, URL Generator \
 Check `Bot` \
 Enable the relevant bot permissions (send messages, read message history, read messages/view channels, mention everyone). Change these if desired. \
-Head to the generated URL and add the bot to your discord server. \
-Create a `.env` file in your project and populate it with your discord token 
+Head to the generated URL and add the bot to your discord server. 
+
 
 
 
