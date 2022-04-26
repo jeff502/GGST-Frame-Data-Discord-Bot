@@ -20,7 +20,7 @@ Characters can be accessed with a small list of commonly used community names fo
 Currently, moves cannot be shortened
 
 All images were provided by https://dustloop.com/wiki/index.php?title=Guilty_Gear_-Strive-
-Frame data was also courtesy provided by Dustloops and yakiimoninja
+Frame data was also courteously provided by Dustloops and yakiimoninja
 
 
 This bot is currently not set to be invited to any server. To use this bot, follow these steps:
